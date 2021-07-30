@@ -1,0 +1,9 @@
+Es wurden Zahlen von 0 bis 1000 verwendet. 
+
+Für	10 Elemente: Zeit = 0,000087s
+	100 Elemente: Zeit = 0,000258s
+	1000 Elemente: Zeit = 0,002721s
+	10000 Elemente: Zeit = 0,022349s
+	100000 Elemente: Zeit = 0,273165s
+	1000000 Elemente: Zeit = 4,067073s
+	Bei 10 Million -> Segmentation Fault
